@@ -7,6 +7,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -24,4 +25,8 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
