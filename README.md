@@ -11,6 +11,7 @@ Leetcode - Problems
 | [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/atharvarajput4/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
 ## Math
@@ -27,6 +28,7 @@ Leetcode - Problems
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/atharvarajput4/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
@@ -49,5 +51,6 @@ Leetcode - Problems
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/atharvarajput4/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
