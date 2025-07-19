@@ -6,19 +6,20 @@ public:
             diff.push_back(abs(arr[i]-x));
         }
 
-        vector<pair<int,int>>paired;
-        for(int i=0;i<arr.size();i++){
-            paired.push_back({diff[i],arr[i]});
+        int left=0;
+        int right=arr.size()-1;
+        while((right-left)+1 != k){
+            if(diff[left] > diff[right]){
+                left++;
+            }else{
+                right--;
+            }
         }
-
-        sort(paired.begin(),paired.end());
 
         vector<int>ans;
-        for(int i=0;i<k;i++){
-            ans.push_back(paired[i].second);
+        for(int i=left;i<=right;i++){
+            ans.push_back(arr[i]);
         }
-
-        sort(ans.begin(),ans.end());
         return ans;
     }
 };
