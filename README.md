@@ -7,6 +7,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/atharvarajput4/Leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -40,6 +41,7 @@ Leetcode - Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
@@ -67,4 +69,8 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
