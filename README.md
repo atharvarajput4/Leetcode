@@ -8,6 +8,7 @@ Leetcode - Problems
 | ------- |
 | [0031-next-permutation](https://github.com/atharvarajput4/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/atharvarajput4/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -25,6 +26,7 @@ Leetcode - Problems
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/atharvarajput4/Leetcode/tree/master/0056-merge-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
