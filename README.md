@@ -20,6 +20,7 @@ Leetcode - Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/atharvarajput4/Leetcode/tree/master/0007-reverse-integer) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
