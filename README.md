@@ -14,6 +14,7 @@ Leetcode - Problems
 | [0118-pascals-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvarajput4/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -60,6 +61,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvarajput4/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Counting
