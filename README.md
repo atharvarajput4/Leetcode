@@ -23,6 +23,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/atharvarajput4/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/atharvarajput4/Leetcode/tree/master/0029-divide-two-integers) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -78,4 +79,8 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/atharvarajput4/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
