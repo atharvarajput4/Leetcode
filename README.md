@@ -7,6 +7,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/atharvarajput4/Leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/atharvarajput4/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/atharvarajput4/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ Leetcode - Problems
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/atharvarajput4/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
