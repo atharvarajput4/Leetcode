@@ -15,6 +15,7 @@ Leetcode - Problems
 | [0119-pascals-triangle-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvarajput4/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -30,6 +31,7 @@ Leetcode - Problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/atharvarajput4/Leetcode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/atharvarajput4/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3321-type-of-triangle](https://github.com/atharvarajput4/Leetcode/tree/master/3321-type-of-triangle) |
@@ -38,6 +40,7 @@ Leetcode - Problems
 | ------- |
 | [0041-first-missing-positive](https://github.com/atharvarajput4/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/atharvarajput4/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/atharvarajput4/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -67,6 +70,7 @@ Leetcode - Problems
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/atharvarajput4/Leetcode/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/atharvarajput4/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/atharvarajput4/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
